@@ -1,2 +1,2 @@
-# CalculateEasterInPHP
-Calculate the date of Easter according to the Julian, Revised Julian (Milanković), and Gregorian (New Style) calendars.
+# ThreeEasters
+Calculates Easter in the Julian, Gregorian, and Revised Julian (Milanković) calendars.
